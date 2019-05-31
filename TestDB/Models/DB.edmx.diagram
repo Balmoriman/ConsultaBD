@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3dccd14eb98541d4a7fd3386d608d050" Name="Diagram1">
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.C__RefactorLog" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Addenda" Width="1.5" PointX="5.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Almacen" Width="1.5" PointX="15" PointY="295.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.AlmacenProducto" Width="1.5" PointX="17.25" PointY="308.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.AlmacenSucursal" Width="1.5" PointX="3" PointY="320.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Ambito" Width="1.5" PointX="5.25" PointY="347.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.AnticipoCliente" Width="1.5" PointX="6" PointY="317.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.AnticipoClienteOperacion" Width="1.5" PointX="12.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.AnticipoProveedor" Width="1.5" PointX="7.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Articulo" Width="1.5" PointX="10.5" PointY="270.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ArticuloDescripcionPlantilla" Width="1.5" PointX="10.5" PointY="257.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ArticuloDescripcionPlantillaTokens" Width="1.5" PointX="0.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ArticuloGrupo" Width="1.5" PointX="6" PointY="269.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ArticuloPresentacion" Width="1.5" PointX="13" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ArticuloSubGrupo" Width="1.5" PointX="8.25" PointY="269.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Atributo" Width="1.5" PointX="2.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.AutorizacionLimites" Width="1.5" PointX="48.75" PointY="286" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Banco" Width="1.5" PointX="0.75" PointY="329.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BancoDsa" Width="1.5" PointX="27.75" PointY="294.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BancoTerminal" Width="1.5" PointX="35.25" PointY="364.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BeneficiariosCategoriasBanco" Width="1.5" PointX="12.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraAddenda" Width="1.5" PointX="23.25" PointY="330" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraCancelacionesPendientes" Width="1.5" PointX="14.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraClienteCreditoExcedente" Width="1.5" PointX="42.75" PointY="299.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraCorreccion" Width="1.5" PointX="15.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraCuentaCobrar" Width="1.5" PointX="39.75" PointY="352.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraExcepciones" Width="1.5" PointX="15" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraFacturaCFD" Width="1.5" PointX="17.25" PointY="251.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraIdentificadorCorte" Width="1.5" PointX="48" PointY="336.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraMovimientoInventario" Width="1.5" PointX="2.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraProducto" Width="1.5" PointX="15.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraPrograma" Width="1.5" PointX="4.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraSistema" Width="1.5" PointX="9.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BitacoraVigenciaCfdi" Width="1.5" PointX="16.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.BuscarProductoApp" Width="1.5" PointX="16.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Calendario" Width="1.5" PointX="17.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CanalVenta" Width="1.5" PointX="30" PointY="291.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CargoCliente" Width="1.5" PointX="26.25" PointY="318.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CargoClienteImportes" Width="1.5" PointX="40.5" PointY="333.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CarritoApp" Width="1.5" PointX="17.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CertificadoFiscal" Width="1.5" PointX="11.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Cheque" Width="1.5" PointX="3" PointY="312.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ChequePagoSubstituto" Width="1.5" PointX="45.75" PointY="341.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Cliente" Width="1.5" PointX="9" PointY="311.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteAbcActualizacion" Width="1.5" PointX="17.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteActualizacion" Width="1.5" PointX="18.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteAddenda" Width="1.5" PointX="6.75" PointY="299.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteAvisoPago" Width="1.5" PointX="23.25" PointY="333.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteAvisoPagoDetalle" Width="1.5" PointX="34.5" PointY="344.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteCalendario" Width="1.5" PointX="11.25" PointY="305.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteCheque" Width="1.5" PointX="31.5" PointY="296.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteCondicionesSantiago" Width="1.5" PointX="17.25" PointY="335.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteCondicionVenta" Width="1.5" PointX="26.25" PointY="314.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteContacto" Width="1.5" PointX="26.25" PointY="326.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteContactoCorreo" Width="1.5" PointX="40.5" PointY="337.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteContactoTelefono" Width="1.5" PointX="40.5" PointY="342.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteCredito" Width="1.5" PointX="40.5" PointY="304.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteCustomer" Width="1.5" PointX="13.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteDescripcion" Width="1.5" PointX="11.25" PointY="352.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteDescripcionDetalle" Width="1.5" PointX="13.5" PointY="353" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteDescuento" Width="1.5" PointX="26.25" PointY="310.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteDireccion" Width="1.5" PointX="26.25" PointY="304.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteDocumentos" Width="1.5" PointX="26.25" PointY="334.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteEnvioFiscal" Width="1.5" PointX="11.25" PointY="370.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteEquipo" Width="1.5" PointX="17.25" PointY="303.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteEstatus" Width="1.5" PointX="6.75" PointY="295.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteGrupo" Width="1.5" PointX="6.75" PointY="290.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteReferenciaNivel1" Width="1.5" PointX="11.25" PointY="378.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteReferenciaNivel2" Width="1.5" PointX="13.5" PointY="378" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteSegmento1" Width="1.5" PointX="2.25" PointY="352.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteSegmento2" Width="1.5" PointX="4.5" PointY="352.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteSegmento3" Width="1.5" PointX="6.75" PointY="351.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteSolicitudCheque" Width="1.5" PointX="29.25" PointY="319.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteSolicitudCredito" Width="1.5" PointX="29.25" PointY="311.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteTipoCondicionSantiago" Width="1.5" PointX="15" PointY="372.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteTipoFormaPago" Width="1.5" PointX="20.25" PointY="303.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ClienteVentaDiaria" Width="1.5" PointX="18.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CobranzaCliente" Width="1.5" PointX="14.25" PointY="333.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CobranzaClienteDetalle" Width="1.5" PointX="50.75" PointY="326.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Colonia" Width="1.5" PointX="0.75" PointY="308.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Competencia" Width="1.5" PointX="7.5" PointY="347.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ComplementoPagoCliente" Width="1.5" PointX="17.25" PointY="248.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ComplementoPagoClienteAplicacion" Width="1.5" PointX="19.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CondicionVenta" Width="1.5" PointX="27" PointY="282.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ControlEvento" Width="1.5" PointX="5.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ControlEventoDetalle" Width="1.5" PointX="8" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ControlEventoFolio" Width="1.5" PointX="8" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ControlEventoFolioAsignado" Width="1.5" PointX="10.25" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ControlFolioReparto" Width="1.5" PointX="32.25" PointY="314.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ControlFolioRepartoDetalle" Width="1.5" PointX="59.25" PointY="338.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ControlFolios" Width="1.5" PointX="19.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ControlReimpresion" Width="1.5" PointX="3" PointY="325.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CotizacionCliente" Width="1.5" PointX="43.5" PointY="329.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CotizacionClienteHojaTrabajo" Width="1.5" PointX="43.5" PointY="302.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CotizacionClienteImportes" Width="1.5" PointX="53.75" PointY="338.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CotizacionClienteImportesHojaTrabajo" Width="1.5" PointX="45.75" PointY="305.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CotizacionClienteProducto" Width="1.5" PointX="54.75" PointY="328.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CotizacionClienteProductoHojaTrabajo" Width="1.5" PointX="45.75" PointY="298.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CotizacionClienteProductoImportes" Width="1.5" PointX="60" PointY="329.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CotizacionClienteProductoImportesHojaTrabajo" Width="1.5" PointX="48" PointY="298.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CP" Width="1.5" PointX="1.5" PointY="304.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CuentaBancariaDSA" Width="1.5" PointX="21" PointY="353.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CuentaBancariaDSAMarcador" Width="1.5" PointX="23.25" PointY="357.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CuentaCobrarCliente" Width="1.5" PointX="37.5" PointY="322" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CuentaCobrarClienteMovimiento" Width="1.5" PointX="51.75" PointY="330.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CuentaCobrarClienteMovimientoOperacion" Width="1.5" PointX="19.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CuentaXPagar" Width="1.5" PointX="27" PointY="386.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CuentaXPagarComprobante" Width="1.5" PointX="29.25" PointY="390" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.CuentaXPagarFactoraje" Width="1.5" PointX="29.25" PointY="353" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Descuentos" Width="1.5" PointX="26.25" PointY="261.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.DespachoMesaSucursal" Width="1.5" PointX="6" PointY="312.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.DevolucionCliente" Width="1.5" PointX="17.25" PointY="326.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.DevolucionClienteImporte" Width="1.5" PointX="25.5" PointY="343.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.DevolucionClienteProducto" Width="1.5" PointX="42.75" PointY="322.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.DevolucionClienteProductoImporte" Width="1.5" PointX="54" PointY="324.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Direccion" Width="1.5" PointX="15.75" PointY="266.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Dispositivo" Width="1.5" PointX="6" PointY="328" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.DispositivoFiscal" Width="1.5" PointX="26.25" PointY="339" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.DispositivoServicio" Width="1.5" PointX="8.25" PointY="333.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Divisiones" Width="1.5" PointX="25.5" PointY="367.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Documento" Width="1.5" PointX="18.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.DocumentoFiscal" Width="1.5" PointX="4.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EfectivoEnResguardo" Width="1.5" PointX="48.75" PointY="307" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Empleado" Width="1.5" PointX="12" PointY="317" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EmpleadoDocumento" Width="1.5" PointX="32.25" PointY="329.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EntidadFederativa" Width="1.5" PointX="1.5" PointY="296.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EntregaCheque" Width="1.5" PointX="3" PointY="287.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EntregaChequeDetalle" Width="1.5" PointX="5.25" PointY="307.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EntregaEfectivo" Width="1.5" PointX="48.75" PointY="320.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EntregaEfectivoDetalle" Width="1.5" PointX="51" PointY="313.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusCobranza" Width="1.5" PointX="35.25" PointY="293" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusCotizacion" Width="1.5" PointX="41.25" PointY="292" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusDevolucion" Width="1.5" PointX="15" PointY="291.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusEnsambles" Width="1.5" PointX="27" PointY="270.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusEntrega" Width="1.5" PointX="53.75" PointY="358.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusEntregaCheque" Width="1.5" PointX="0.75" PointY="287.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusFactura" Width="1.5" PointX="18" PointY="294.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusNotaCargo" Width="1.5" PointX="15" PointY="288.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusNotaCredito" Width="1.5" PointX="18" PointY="349.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusOrdenCompra" Width="1.5" PointX="9.75" PointY="357.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusPedidoCliente" Width="1.5" PointX="21" PointY="300.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusPedidoInterno" Width="1.5" PointX="27" PointY="358" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusProductoNegado" Width="1.5" PointX="12" PointY="300.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.EstatusPromesa" Width="1.5" PointX="6.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ExhibicionUbicacion" Width="1.5" PointX="18" PointY="298.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ExhibicionUbicacionMapa" Width="1.5" PointX="3" PointY="386.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Fabricante" Width="1.5" PointX="8.25" PointY="278.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FabricanteMarca" Width="1.5" PointX="10.5" PointY="261.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FabricanteMarcaLinea" Width="1.5" PointX="10.5" PointY="277.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FacturaCFDBitacoraAcceso" Width="1.5" PointX="17.25" PointY="244.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FacturaCFDBitacoraTimbrado" Width="1.5" PointX="17.25" PointY="239" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FacturaCliente" Width="1.5" PointX="20.25" PointY="315.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FacturaClienteCFD" Width="1.5" PointX="15" PointY="258.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FacturaClienteCFDI" Width="1.5" PointX="17.25" PointY="133" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FacturaClienteEquipo" Width="1.5" PointX="34.5" PointY="329.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FacturaClienteImportes" Width="1.5" PointX="34.5" PointY="333.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FacturaClienteOperacion" Width="1.5" PointX="20.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FacturaEspecial" Width="1.5" PointX="23.25" PointY="315.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FacturaEspecialDetalle" Width="1.5" PointX="25.5" PointY="295.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FolioDocumento" Width="1.5" PointX="20.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FolioFiscal" Width="1.5" PointX="12" PointY="310.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FolioOperativo" Width="1.5" PointX="20.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FolioSistema" Width="1.5" PointX="21.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FormaPagoSAT" Width="1.5" PointX="12.75" PointY="260.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.FuncionEmpleado" Width="1.5" PointX="32.25" PointY="310.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.GrupoNotificacion" Width="1.5" PointX="32.25" PointY="270.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.GrupoNotificacionConfirmacion" Width="1.5" PointX="36.75" PointY="297.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.GrupoNotificacionEvento" Width="1.5" PointX="34.5" PointY="283.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.GrupoNotificacionUsuario" Width="1.5" PointX="34.5" PointY="298.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.HistoricoInventario" Width="1.5" PointX="21.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.HojaPromocion" Width="1.5" PointX="8.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Impresora" Width="1.5" PointX="8.25" PointY="337" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InformeMensualSAT" Width="1.5" PointX="15.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.IngresosDocumentos" Width="1.5" PointX="37.5" PointY="351.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisico" Width="1.5" PointX="3" PointY="395.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoControlFolios" Width="1.5" PointX="5.25" PointY="396.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoControlFoliosBloc" Width="1.5" PointX="19.5" PointY="377.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoEmpleado" Width="1.5" PointX="17.25" PointY="357.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoIdentificadorCorte" Width="1.5" PointX="13.5" PointY="397" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoImpresion" Width="1.5" PointX="10.5" PointY="404.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoMarbete" Width="1.5" PointX="8.25" PointY="395.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoMarbeteHistorico" Width="1.5" PointX="14.25" PointY="358.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoMarbeteRevision" Width="1.5" PointX="16.5" PointY="344" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoProducto" Width="1.5" PointX="11.25" PointY="395" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoRutaConteo" Width="1.5" PointX="21.75" PointY="374.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoSeccionConteo" Width="1.5" PointX="5.25" PointY="392.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoSeccionConteoCierre" Width="1.5" PointX="34.5" PointY="349.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoUbicacion" Width="1.5" PointX="5.25" PointY="402" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioFisicoUsuario" Width="1.5" PointX="46.5" PointY="330.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioTransito" Width="1.5" PointX="66.75" PointY="329.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.InventarioUbicacion" Width="1.5" PointX="23.25" PointY="339.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Kardex" Width="1.5" PointX="29.25" PointY="325.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ListaPreciosFormulaExcel" Width="1.5" PointX="20.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.MarcaVehiculo" Width="1.5" PointX="27.75" PointY="274.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Menu" Width="1.5" PointX="48.75" PointY="280.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.MotivoMovimientoCheque" Width="1.5" PointX="6" PointY="303.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.MovimientoBanco" Width="1.5" PointX="23.25" PointY="365.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.MovimientoCheque" Width="1.5" PointX="8.25" PointY="306.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.MovimientoCuentaxPagar" Width="1.5" PointX="53.75" PointY="282.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.MovimientosBancos" Width="1.5" PointX="29.25" PointY="362.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Municipio" Width="1.5" PointX="1.5" PointY="300.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.NotaCargo" Width="1.5" PointX="17.25" PointY="317.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.NotaCargoImportes" Width="1.5" PointX="34.5" PointY="312.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.NotaCredito" Width="1.5" PointX="20.25" PointY="330.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.NotaCreditoEquipo" Width="1.5" PointX="22.5" PointY="345.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.NotaCreditoImportes" Width="1.5" PointX="28.5" PointY="345.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.NotaCreditoOperacion" Width="1.5" PointX="0.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Notificacion" Width="1.5" PointX="30" PointY="270.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OpcionesCombo" Width="1.5" PointX="22.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OperadorReparto" Width="1.5" PointX="10.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenCompra" Width="1.5" PointX="12" PointY="328.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenCompraEntrega" Width="1.5" PointX="14.25" PointY="339.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenCompraImportes" Width="1.5" PointX="20.25" PointY="341.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenCompraProducto" Width="1.5" PointX="42.75" PointY="343" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenCompraProductoExcedente" Width="1.5" PointX="45" PointY="345.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenCompraProductoImportes" Width="1.5" PointX="48" PointY="353" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenCompraProductoSobrestock" Width="1.5" PointX="45" PointY="354.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenCorte" Width="1.5" PointX="62.25" PointY="332.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespacho" Width="1.5" PointX="50.75" PointY="339.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoDocumento" Width="1.5" PointX="56" PointY="348.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoEntrega" Width="1.5" PointX="53" PointY="348.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoEntregaBitacora" Width="1.5" PointX="59" PointY="347" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoEquipo" Width="1.5" PointX="53" PointY="344.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoEstatus" Width="1.5" PointX="48.5" PointY="358.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoImporte" Width="1.5" PointX="48.5" PointY="361.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoOperacion" Width="1.5" PointX="12.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoProducto" Width="1.5" PointX="57" PointY="328.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoProductoImporte" Width="1.5" PointX="54.75" PointY="317.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoReparto" Width="1.5" PointX="56" PointY="352.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoServicio" Width="1.5" PointX="53" PointY="377.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenDespachoTipoOrigen" Width="1.5" PointX="22.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenEnsamble" Width="1.5" PointX="29.25" PointY="304.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.OrdenEnsambleDetalle" Width="1.5" PointX="37.5" PointY="301.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PagoCliente" Width="1.5" PointX="37.5" PointY="335.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PagoCobranza" Width="1.5" PointX="31.5" PointY="321.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PagoCuentaxPagar" Width="1.5" PointX="51.5" PointY="300.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Pais" Width="1.5" PointX="1.5" PointY="292.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ParametroSucursal" Width="1.5" PointX="3" PointY="413.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PedidoCliente" Width="1.5" PointX="23.25" PointY="304.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PedidoClienteImportes" Width="1.5" PointX="28.5" PointY="299.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PedidoClienteProducto" Width="1.5" PointX="34.5" PointY="302.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PedidoClienteProductoImportes" Width="1.5" PointX="39.75" PointY="300.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PedidoInterno" Width="1.5" PointX="29.25" PointY="337.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PedidoInternoImportes" Width="1.5" PointX="40.5" PointY="347.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PedidoInternoProducto" Width="1.5" PointX="31.5" PointY="349" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PedidoInternoProductoImportes" Width="1.5" PointX="33.75" PointY="354.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Perfil" Width="1.5" PointX="30" PointY="287" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PerfilFuncionPrograma" Width="1.5" PointX="37.25" PointY="284.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PerfilImpresion" Width="1.5" PointX="3.75" PointY="343.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PerfilImpresionGrupo" Width="1.5" PointX="10.5" PointY="343.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PrecioAvisoCambio" Width="1.5" PointX="18.75" PointY="256.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Presentacion" Width="1.5" PointX="10.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Proceso" Width="1.5" PointX="49.5" PointY="271.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProcesoPagoCxPDetalle" Width="1.5" PointX="25.5" PointY="380.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProcesoPagoCxPPaquete" Width="1.5" PointX="23.25" PointY="379.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProcesoPrograma" Width="1.5" PointX="51.75" PointY="295.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProcesoTipoDocumentoDigitalizacion" Width="1.5" PointX="56.75" PointY="324.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Producto" Width="1.5" PointX="12.75" PointY="276.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoCambioUnidadDestino" Width="1.5" PointX="18" PointY="282" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoCambioUnidadOrigen" Width="1.5" PointX="18" PointY="277.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoConsolidado" Width="1.5" PointX="22.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoDescuento" Width="1.5" PointX="51" PointY="308.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoEnsamble" Width="1.5" PointX="27" PointY="266.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoEnsambleDetalle" Width="1.5" PointX="35.25" PointY="288.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoFactor" Width="1.5" PointX="15" PointY="279.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoIdentificadorCorte" Width="1.5" PointX="45.75" PointY="334.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoIndice" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoIndiceProducto" Width="1.5" PointX="22.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoNegadoCatalogo" Width="1.5" PointX="14.25" PointY="300.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoPrecioHistorico" Width="1.5" PointX="21" PointY="281.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoPromocion" Width="1.5" PointX="3" PointY="330.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoPromocionCliente" Width="1.5" PointX="11.25" PointY="339.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoPromocionCodigo" Width="1.5" PointX="5.25" PointY="335.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoPromocionCodigoAplicacion" Width="1.5" PointX="60" PointY="334.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoPromocionDetalle" Width="1.5" PointX="35.25" PointY="323.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoPromocionSegmento" Width="1.5" PointX="5.25" PointY="340.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoReemplazo" Width="1.5" PointX="23.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoSegmento1" Width="1.5" PointX="6" PointY="283.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoSegmento2" Width="1.5" PointX="8.25" PointY="283.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProductoSegmento3" Width="1.5" PointX="10.5" PointY="283" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Programa" Width="1.5" PointX="46.5" PointY="289" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProgramaConfiguracion" Width="1.5" PointX="48.75" PointY="276.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProgramaFuncion" Width="1.5" PointX="51.75" PointY="291.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PromesaCompra" Width="1.5" PointX="34.5" PointY="338.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Proveedor" Width="1.5" PointX="15" PointY="319.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProveedorAcreedor" Width="1.5" PointX="18" PointY="266.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProveedorAcreedorBanco" Width="1.5" PointX="23.25" PointY="296.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProveedorAcreedorContacto" Width="1.5" PointX="38.25" PointY="292.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProveedorAcreedorDescuentos" Width="1.5" PointX="20.25" PointY="266.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProveedorAcreedorDireccion" Width="1.5" PointX="56" PointY="313.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ProveedorAcreedorDocumento" Width="1.5" PointX="20.25" PointY="273.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Puesto" Width="1.5" PointX="9.75" PointY="347.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.PuntosCredito" Width="1.5" PointX="46.5" PointY="284.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Rack" Width="1.5" PointX="23.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.RackDivision" Width="1.5" PointX="24.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.RackNivel" Width="1.5" PointX="24.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ReciboProducto" Width="1.5" PointX="32.25" PointY="339.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ReciboProductoDetalle" Width="1.5" PointX="48.25" PointY="341" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ReferenciaBancariaTipoDocumento" Width="1.5" PointX="41.25" PointY="356.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.RegistroVisitantes" Width="1.5" PointX="14.25" PointY="346.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.RepartoCodigosPostalesZona" Width="1.5" PointX="3" PointY="308.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.RevisionCliente" Width="1.5" PointX="49.5" PointY="293.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.RevisionClienteDetalle" Width="1.5" PointX="51.75" PointY="321.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.RutaRepartoSucursal" Width="1.5" PointX="15" PointY="314.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.schema_migrations" Width="1.5" PointX="14.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Seccion" Width="1.5" PointX="32.25" PointY="285.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SeccionProducto" Width="1.5" PointX="34.5" PointY="317.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SeccionProductoBitacora" Width="1.5" PointX="32.25" PointY="333.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SeccionProductoCosto" Width="1.5" PointX="36.75" PointY="311.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SeccionProductoUbicacion" Width="1.5" PointX="47.75" PointY="326.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SesionBitacora" Width="1.5" PointX="48.75" PointY="317" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SesionBitacoraActividad" Width="1.5" PointX="51" PointY="317.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SesionCaja" Width="1.5" PointX="46.5" PointY="312.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SesionCajaCierre" Width="1.5" PointX="48.75" PointY="303.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SesionFacturaEntrega" Width="1.5" PointX="48.75" PointY="330.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SesionFacturaEntregaDetalle" Width="1.5" PointX="37.5" PointY="307.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SesionUsuarioExterno" Width="1.5" PointX="32.25" PointY="282.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Sinonimo" Width="1.5" PointX="18.75" PointY="261.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SinonimoArticulo" Width="1.5" PointX="23" PointY="267.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SinonimoProducto" Width="1.5" PointX="21" PointY="277.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudAnticipoProveedorAcreedor" Width="1.5" PointX="20.25" PointY="248.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudChequeEstatus" Width="1.5" PointX="43.5" PointY="319" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudChequeRequisito" Width="1.5" PointX="43.25" PointY="287.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudChequeRequisitoSeguimiento" Width="1.5" PointX="45.5" PointY="325.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudChequeSeguimientoEstatus" Width="1.5" PointX="27" PointY="349.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudCreditoEstatus" Width="1.5" PointX="43.5" PointY="313.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudCreditoRequisito" Width="1.5" PointX="44.25" PointY="293.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudCreditoRequisitoSeguimiento" Width="1.5" PointX="46.5" PointY="320.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudCreditoSeguimientoEstatus" Width="1.5" PointX="27" PointY="291.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudEgreso" Width="1.5" PointX="20.25" PointY="239.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudEgresoDocumento" Width="1.5" PointX="22.5" PointY="241.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudServicio" Width="1.5" PointX="48.75" PointY="312.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Sucursal" Width="1.5" PointX="0.75" PointY="316.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SucursalAlmacenSeccion" Width="1.5" PointX="15" PointY="326.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SucursalAlmacenSeccionMapa" Width="1.5" PointX="17.25" PointY="340.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SucursalProducto" Width="1.5" PointX="15" PointY="307.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SucursalProductoExhibicion" Width="1.5" PointX="20.25" PointY="308" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.sysdiagrams" Width="1.5" PointX="16.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SysPerfMon" Width="1.5" PointX="24.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TIIE" Width="1.5" PointX="24.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TimbradoDocumento" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TimbradoProveedor" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TimbradoProveedorFolios" Width="1.5" PointX="3" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TimeDimension" Width="1.5" PointX="25.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoCalendario" Width="1.5" PointX="9" PointY="265.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoCambio" Width="1.5" PointX="0.75" PointY="335" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoCancelacionPago" Width="1.5" PointX="0.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoCargo" Width="1.5" PointX="2.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoCargoCliente" Width="1.5" PointX="24" PointY="291" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoCausaDevolucionCliente" Width="1.5" PointX="40.5" PointY="296.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoContacto" Width="1.5" PointX="24" PointY="349.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoContactoPuesto" Width="1.5" PointX="4.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoCorreo" Width="1.5" PointX="38.25" PointY="355.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoCredito" Width="1.5" PointX="27" PointY="353.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDescuento" Width="1.5" PointX="24" PointY="286.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDescuentoImporte" Width="1.5" PointX="37.5" PointY="287.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDescuentoProducto" Width="1.5" PointX="45.75" PointY="349.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDevolucion" Width="1.5" PointX="15" PointY="364.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDireccion" Width="1.5" PointX="53.75" PointY="362.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDispositivo" Width="1.5" PointX="3.75" PointY="356.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDocumento" Width="1.5" PointX="15" PointY="367.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDocumentoCliente" Width="1.5" PointX="24" PointY="353.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDocumentoDigitalizacion" Width="1.5" PointX="35.25" PointY="368.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDocumentoEmpleado" Width="1.5" PointX="30" PointY="358.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDocumentoFiscal" Width="1.5" PointX="9.75" PointY="300.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoDocumentoODD" Width="1.5" PointX="53.75" PointY="354.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoError" Width="1.5" PointX="12.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoErrorTimbrado" Width="1.5" PointX="25.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoFactura" Width="1.5" PointX="18" PointY="290.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoFormaPago" Width="1.5" PointX="48.5" PointY="368.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoFormaPagoCxP" Width="1.5" PointX="49.25" PointY="289.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoFuncionPrograma" Width="1.5" PointX="27.75" PointY="287.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoFuncionUsuario" Width="1.5" PointX="30" PointY="282.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoImporte" Width="1.5" PointX="32.25" PointY="290.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoMesa" Width="1.5" PointX="3.75" PointY="304.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoMoneda" Width="1.5" PointX="10.5" PointY="287.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoMovimientoBanamex" Width="1.5" PointX="18.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoMovimientoCuentaPorCobrar" Width="1.5" PointX="35.25" PointY="358.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoMovimientoCuentaPorPagar" Width="1.5" PointX="51.5" PointY="285" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoMovimientoInventario" Width="1.5" PointX="43.5" PointY="358.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoMovimientoPagos" Width="1.5" PointX="20.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoMovimientosBancos" Width="1.5" PointX="27" PointY="371.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoNotaCargo" Width="1.5" PointX="15" PointY="284.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoNotaCredito" Width="1.5" PointX="18" PointY="352.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoOrdenCompra" Width="1.5" PointX="9.75" PointY="360.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoPedido" Width="1.5" PointX="21" PointY="296.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoPedidoInterno" Width="1.5" PointX="27" PointY="361.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoPrioridad" Width="1.5" PointX="3.75" PointY="300.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoProducto" Width="1.5" PointX="10.5" PointY="296" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoPromocionProducto" Width="1.5" PointX="0.75" PointY="342.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoProveedor" Width="1.5" PointX="15.75" PointY="271.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoRechazoMercancia" Width="1.5" PointX="64.5" PointY="328.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoRutaReparto" Width="1.5" PointX="12.75" PointY="295.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoServicio" Width="1.5" PointX="46.5" PointY="295.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoSolicitud" Width="1.5" PointX="22.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoTelefono" Width="1.5" PointX="53.75" PointY="366.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoUbicacion" Width="1.5" PointX="21" PointY="349.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoVehiculo" Width="1.5" PointX="27.75" PointY="278.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TipoVialidad" Width="1.5" PointX="13.5" PointY="266.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.TrackingOrdenDespacho" Width="1.5" PointX="40.5" PointY="312.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Ubicacion" Width="1.5" PointX="3.75" PointY="360.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.UbicacionTipoUbicacion" Width="1.5" PointX="24.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.UnidadMedida" Width="1.5" PointX="8.25" PointY="273.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.UnidadMedidaSAT" Width="1.5" PointX="6" PointY="273.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.UnidadPresentacion" Width="1.5" PointX="10.75" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Usuario" Width="1.5" PointX="32.25" PointY="302.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.UsuarioExterno" Width="1.5" PointX="26.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.UsuarioSesion" Width="1.5" PointX="37.5" PointY="316" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ValeInterAlmacen" Width="1.5" PointX="62.25" PointY="338.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ValeInterAlmacenProducto" Width="1.5" PointX="64.5" PointY="332.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.Vehiculo" Width="1.5" PointX="30" PointY="275.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.VersionDB" Width="1.5" PointX="10.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.ZonaColoniaReparto" Width="1.5" PointX="17.25" PointY="313.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DSNet3_DesarrolloModel.SolicitudServicio_TEMP" Width="1.5" PointX="26.75" PointY="17.75" IsExpanded="true" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AlmacenProducto_Almacen" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AlmacenSucursal_Almacen" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SucursalAlmacenSeccion_Almacen" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AlmacenProducto_SucursalProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProducto_AlmacenProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AlmacenSucursal_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Competencia_Ambito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AnticipoCliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AnticipoCliente_FacturaCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AnticipoCliente_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AnticipoCliente_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionCliente_AnticipoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_AnticipoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaEspecial_AnticipoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_AnticipoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_AnticipoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_AnticipoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoCliente_AnticipoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Articulo_ArticuloSubGrupo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Articulo_UnidadMedida" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoProducto_Articulo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Producto_Articulo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SinonimoArticulo_Articulo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ArticuloDescripcionPlantilla_ProductoSegmento2" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ArticuloSubGrupo_ArticuloGrupo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ArticuloPresentacion_Presentacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ArticuloPresentacion_UnidadPresentacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AutorizacionLimites_Programa" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AutorizacionLimites_TipoFuncionPrograma" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_BancoDsa_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_BancoTerminal_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CargoCliente_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cheques_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cliente_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteAvisoPago_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaBancariaDSA_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCobranza_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedorBanco_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ReferenciaBancariaTipoDocumento_Banco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_BancoDsa_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_BancoTerminal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Addenda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_BitacoraClienteCreditoExcedente_ClienteCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_BitacoraCuentaCobrar_CuentaCobrarCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_BitacoraExcepciones_TipoError" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_BitacoraFacturaCFD_FacturaClienteCFD" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_BitacoraIdentificadorCorte_ProductoIdentificadorCorte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK__SesionUsu__Clave__2EE8454E" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteContacto_CanalVenta" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Empleado_CanalVenta" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_CanalVenta" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Usuario_CanalVenta" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CargoCliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CargoCliente_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CargoCliente_TipoCargoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CargoCliente_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CargoClienteImportes_CargoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargo_CargoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CargoClienteImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cheque_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ChequePagoSubstituto_Cheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cheques_Cheques" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cheques_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EntregaChequeDetalle_Cheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientoCheque_Cheques" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargo_Cheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_Cheques" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ChequePagoSubstituto_PagoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cliente_ClienteAddenda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cliente_ClienteCheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cliente_ClienteCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cliente_ClienteEstatus" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cliente_ClienteGrupo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cliente_ClienteSegmento3" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cliente_ProductoPromocionCodigoAplicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Cliente_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteAvisoPago_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteCalendario_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteCondicionesSantiago_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteCondicionVenta_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteContacto_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDescripcion_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDescuento_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDireccion_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDocumentos_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteEnvioFiscal_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteEquipo_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteReferenciaNivel1_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteSolicitudCheque_Cliente1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteSolicitudCredito_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteTipoFormaPago_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionCliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteHojaTrabajo_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarClienteMovimiento_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionCliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaEspecial_Cliente1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Kardex_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargo_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenEnsamble_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCobranza_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoCliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInterno_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoNegadoCatalogo_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPromocionCliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PromesaCompra_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TrackingOrdenDespacho_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteAddenda_TipoDocumentoFiscal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteAvisoPago_CuentaBancariaDSA" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteAvisoPago_TipoFormaPago" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteAvisoPago_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteAvisoPagoDetalle_ClienteAvisoPago" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteAvisoPagoDetalle_TipoDocumento" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteCalendario_ClienteDireccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteCalendario_TipoCalendario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteCheque_ClienteSolicitudCheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteCondicionesSantiago_ClienteTipoCondicionSantiago" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteCondicionVenta_CondicionVenta" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteContacto_ClienteDireccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteContacto_TipoContacto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteContactoCorreo_ClienteContacto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteContactoTelefono_ClienteContacto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionCliente_ClienteContacto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteHojaTrabajo_ClienteContacto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteContactoCorreo_TipoCorreo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteContactoTelefono_TipoTelefono" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteCredito_ClienteSolicitudCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteCredito_TipoCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_ClienteCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_ClienteCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDescripcionDetalle_ClienteDescripcion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDescripcionDetalle_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDescuento_TipoDescuento" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDireccion_Colonia" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDireccion_TipoDireccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDireccion_TipoVialidad" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteDocumentos_TipoDocumentoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudChequeRequisitoSeguimiento_ClienteDocumentos" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudCreditoRequisitoSeguimiento_ClienteDocumentos" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteEquipo_TipoFuncionUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteEquipo_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteReferenciaNivel2_ClienteReferenciaNivel1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_ClienteReferenciaNivel2" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteSegmento2_ClienteSegmento1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteSegmento3_ClienteSegmento2" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaEspecial_ClienteSegmento3" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargo_ClienteSegmento3" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_ClienteSegmento3" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_ClienteSegmento3" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPromocionSegmento_ClienteSegmento3" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteSolicitudCheque_SolicitudChequeSeguimientoEstatus" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteSolicitudCheque_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudChequeEstatus_ClienteSolicitudCheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudChequeRequisitoSeguimiento_ClienteSolicitudCheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteSolicitudCredito_CondicionVenta" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteSolicitudCredito_SolicitudCreditoSeguimientoEstatus" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteSolicitudCredito_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ClienteSolicitudCredito_TipoCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudCreditoEstatus_ClienteSolicitudCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudCreditoRequisitoSeguimiento_ClienteSolicitudCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CienteTipoFormaPago_TipoFormaPago" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CobranzaCliente_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CobranzaClienteDetalle_CobranzaCliente1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCobranza_CobranzaCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CobranzaClienteDetalle_CuentaCobrarCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CobranzaClienteDetalle_EstatusCobranza" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Colonia_CP" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Colonia_Municipio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoReparto_Colonia" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_RepartoCodigosPostalesZona_Colonia" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Puesto_Competencia" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ComplementoPagoCliente_FacturaClienteCFD" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_CondicionVenta" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_CondicionVenta" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_CondicionVenta" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlEvento_ControlEventoFolio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlEvento_EventoDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlEventoFolioAsignado_ControlEventoDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlEventoFolioAsignado_ControlEventoFolio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlFolioReparto_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlFolioReparto_EstatusEntrega" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlFolioReparto_RutaRepartoSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlFolioReparto_Vehiculo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlFolioRepartoDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlFolioRepartoDetalle_EstatusEntrega" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlFolioRepartoDetalle_OrdenDespachoReparto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlReimpresion_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ControlReimpresion_TipoDocumento" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionCliente_EstatusCotizacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionCliente_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionCliente_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionCliente_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteImportes_CotizacionCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteProducto_CotizacionCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteHojaTrabajo_EstatusCotizacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteHojaTrabajo_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteHojaTrabajo_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteHojaTrabajo_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteImportesHojaTrabajo_CotizacionClienteHojaTrabajo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteProductoHojaTrabajo_CotizacionClienteHojaTrabajo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteImportesHojaTrabajo_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteProducto_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteProducto_ProductoPromocionDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteProductoImportes_CotizacionClienteProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteProductoHojaTrabajo_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteProductoImporteHojaTrabajos_CotizacionClienteProductoHojaTrabajo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteProductoImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CotizacionClienteProductoImportesHojaTrabajo_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ZonaColoniaReparto_CP" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaBancariaDSA_CuentaBancariaDSA" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaBancariaDSA_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaBancariaDSA_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaBancariaDSAMarcador_CuentaBancariaDSA1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaXPagarFactoraje_CuentaBancariaDSA" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientoBanco_CuentaBancariaDSA" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientosBancos_CuentaBancariaDSA" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProcesoPagoCxPPaquete_CuentaBancariaDSA" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_EstatusCobranza" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_FacturaCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_FacturaEspecial" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_NotaCargo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_SesionCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_TipoCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_TipoDocumentoFiscal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_TipoFormaPago" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarCliente_TipoMovimientoCuentaPorCobrar" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarClienteMovimiento_CuentaCobrarCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_RevisionClienteDetalle_CuentaCobrarCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarClienteMovimiento_PagoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarClienteMovimiento_SesionCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarClienteMovimiento_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaCobrarClienteMovimiento_TipoMovimientoCuentaPorCobrar" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CrediproveedorPaqueteDetalle_CuentaXPagar" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaXPagar_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaXPagarComprobante_CuentaXPagar" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaXPagarFactoraje_CuentaXPagarDestino" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CuentaXPagarFactoraje_CuentaXPagarOrigen" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientoCuentaxPagar_CuentaXPagar" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Descuentos_TipoDescuento" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DespachoMesaSucursal_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DespachoMesaSucursal_TipoMesa" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DespachoMesaSucursal_TipoPrioridad" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_DespachoMesaSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionCliente_EstatusDevolucion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionCliente_NotaCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionCliente_OrdenDespacho_GUID" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionCliente_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionCliente_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionCliente_TipoDevolucion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionCliente_TipoDocumento" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionCliente_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionClienteImporte_DevolucionCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionClienteProducto_DevolucionCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionClienteImporte_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionClienteProducto_SeccionProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionClienteProducto_TipoCausaDevolucionCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionClienteProductoImporte_DevolucionClienteProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DevolucionClienteProductoImporte_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Direccion_TipoVialidad" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedor_Direccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedorDireccion_Direccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Dispositivo_PerfilImpresion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Dispositivo_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Dispositivo_TipoDispositivo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Dispositivo_Ubicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DispositivoFiscal_Dispositivo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DispositivoServicio_Dispositivo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Impresora_Dispositivo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_UsuarioSesion_Dispositivo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_DispositivoFiscal_FolioFiscal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Divisiones_MovimientoBanco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EfectivoEnResguardo_SesionCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EntregaEfectivoDetalle_EfectivoEnResguardo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Empleado_Puesto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Empleado_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EmpleadoDocumento_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FuncionUsuario_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoEquipo_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoMarbeteHistorico_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoMarbeteHistorico_Empleado2" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoMarbeteRevision_EmpleadoCaptura" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoMarbeteRevision_EmpleadoCuenta" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_RegistroVisitantes_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProductoBitacora_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Usuario_Empleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EmpleadoDocumento_TipoDocumentoEmpleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EntidadFederativa_Pais" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Municipio_EntidadFederativa" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EntregaCheque_EstatusEntregaCheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EntregaChequeDetalle_EntregaCheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EntregaChequeDetalle_EstatusEntregaCheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EntregaEfectivo_SesionCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_EntregaEfectivoDetalle_EntregaEfectivo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_RevisionClienteDetalle_EstatusCobranza" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenEnsamble_EstatusEnsambles" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoReparto_EstatusEntrega" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_EstatusFactura" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaEspecial_EstatusFactura" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargo_EstatusNotaCargo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_EstatusNotaCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompra_EstatusOrdenCompra" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoCliente_EstatusPedidoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInterno_EstatusPedidoInterno" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInternoProducto_EstatusPedidoInterno" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoNegadoCatalogo_EstatusProductoNegado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SucursalProductoExhibicion_ExhibicionUbicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ExhibicionUbicacionMapa_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FabricanteMarca_Fabricante" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FabricanteMarcaLinea_Fabricante" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoProducto_FabricanteMarcaLinea" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PrecioAvisoCambio_FabricanteMarcaLinea" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Producto_FabricanteMarcaLinea" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCFDBitacoraAcceso_FacturaClienteCFD" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCFDBitacoraTimbrado_FacturaClienteCFD" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_FacturaCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_FacturaClienteCFD" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_OrdenDespacho_GUID" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_SesionCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_TipoFactura" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaCliente_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaClienteEquipo_FacturaCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaClienteImportes_FacturaCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SesionFacturaEntregaDetalle_FacturaCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TrackingOrdenDespacho_FacturaCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaClienteCFD_FormaPagoSAT" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaClienteCFD_TipoDocumentoFiscal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaClienteCFDI_FacturaClienteCFD" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaEspecial_FacturaClienteCFD1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargo_FacturaClienteCFD" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_FacturaClienteCFD" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaClienteCFDI_TimbradoProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaClienteEquipo_TipoFuncionUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaClienteImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaClienteProductoEspecial_FacturaEspecial1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaEspecial_FacturaEspecial" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaEspecial_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaEspecial_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaEspecial_TipoFactura" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FacturaEspecial_TipoFormaPago1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FolioFiscal_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FolioFiscal_TipoDocumentoFiscal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TipoFormaPago_FormaPagoSAT" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_FuncionUsuario_TipoFuncionUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_GrupoNotificacion_Notificacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_GrupoNotificacionEvento_GrupoNotificacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_GrupoNotificacionUsuario_GrupoNotificacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_GrupoNotificacionConfirmacion_GrupoNotificacionEvento" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_GrupoNotificacionConfirmacion_GrupoNotificacionUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_GrupoNotificacionUsuario_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PerfilImpresionGrupo_Impresora" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_IngresosDocumentos_ReciboProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_IngresosDocumentos_TipoDocumentoDigitalizacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisico_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoControlFolios_InventarioFisico" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoEquipo_InventarioFisico" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoMarbete_InventarioFisico" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoProducto_InventarioFisico" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoSeccionConteo_InventarioFisico" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoUbicacion_InventarioFisico" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoControlFolios_SucursalAlmacenSeccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoControlFoliosBloc_InventarioFisicoControlFolios" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoControlFoliosBloc_InventarioFisicoEmpleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoRutaConteo_InventarioFisicoControlFoliosBloc" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoEquipo_SucursalAlmacenSeccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoRutaConteo_InventarioFisicoEmpleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoRutaConteo_InventarioFisicoEmpleado1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoUsuario_InventarioFisicoEmpleado" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoIdentificadorCorte_InventarioFisicoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoIdentificadorCorte_ProductoIdentificadorCorte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoMarbete_InventarioFisicoIdentificadorCorte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoImpresion_InventarioFisicoMarbete" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoMarbete_InventarioFisicoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoMarbete_InventarioFisicoUbicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoMarbeteHistorico_InventarioFisicoMarbete" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoMarbeteRevision_InventarioFisicoMarbeteHistorico" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoProducto_SucursalAlmacenSeccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoRutaConteo_InventarioFisicoSeccionConteo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoSeccionConteo_SucursalAlmacenSeccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoSeccionConteoCierre_InventarioFisicoSeccionConteo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoSeccionConteoCierre_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoSeccionConteoCierre_Usuario1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoUbicacion_SucursalAlmacenSeccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioFisicoUsuario_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AjusteInventarioTransito_Kardex" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AjusteInventarioTransito_TipoRechazoMercancia" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_AjusteInventarioTransito_ValeInterAlmacenProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioTransito_TipoMovimientoInventario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioUbicacion_SucursalAlmacenSeccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_InventarioUbicacion_TipoUbicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoIdentificadorCorte_InventarioUbicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProductoBitacora_InventarioUbicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProductoUbicacion_InventarioUbicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Kardex_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Kardex_SeccionProductoCosto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Kardex_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Kardex_TipoDocumento" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Kardex_TipoMovimientoInventario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Vehiculo_MarcaVehiculo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Menu_Menu" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Menu_Programa" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientoCheque_MotivoMovimientoCheque" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientoCuentaxPagar_MovimientoCuentaxPagar" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientoCuentaxPagar_PagoCuentaxPagar" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientoCuentaxPagar_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientoCuentaxPagar_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientoCuentaxPagar_TipoMovimientoCuentaPorPagar" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_MovimientosBancos_TipoMovimientosBancos" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargo_SesionCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargo_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargo_TipoNotaCargo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargoImportes_NotaCargo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCargoImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_SesionCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_TipoDocumentoFiscal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCredito_TipoNotaCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCreditoEquipo_NotaCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCreditoImportes_NotaCredito1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_NotaCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PromesaCompra_NotaCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCreditoEquipo_TipoFuncionUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_NotaCreditoImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Programa_Notificacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompra_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompra_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompra_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompra_TipoOrdenCompra" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraEntrega_OrdenCompra" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraImportes_OrdenCompra" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraProducto_OrdenCompra" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ReciboProducto_OrdenCompra" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraProducto_PedidoInternoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraProducto_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraProductoExcedente_OrdenCompraProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraProductoImportes_OrdenCompraProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraProductoSobrestock_OrdenCompraProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ReciboProductoDetalle_OrdenCompraProductoExcedente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraProductoImportes_TipoDescuentoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCompraProductoImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCorte_OrdenDespachoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenCorte_ProductoIdentificadorCorte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ValeInterAlmacenProducto_OrdenCorte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_OrdenDespachoEstatus" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_OrdenDespachoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_PedidoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_ProductoPromocionCodigoAplicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_PromesaCompra" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_Representante" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_TipoCredito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_TipoFormaPago" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespacho_Vendedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoDocumento_OrdenDespacho_GUID" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoEntrega_OrdenDespacho_GUID" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoEntregaBitacora_OrdenDespacho_GUID" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoEquipo_OrdenDespacho_GUID" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoProducto_OrdenDespacho_GUID" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoReparto_OrdenDespacho_GUID" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoServicio_OrdenDespacho_GUID" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TrackingOrdenDespacho_OrdenDespacho" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoDocumento_TipoDocumentoODD" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoEntregaBitacora_Seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoEquipo_TipoFuncionUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoProducto_OrdenDespachoProductoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoProducto_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoProducto_ProductoPromocionDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoProducto_SeccionProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoReparto_TipoDireccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoReparto_TipoRutaReparto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoReparto_TipoTelefono" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenDespachoReparto_TipoVialidad" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenEnsamble_ProductoEnsamble" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenEnsamble_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenEnsamble_TipoCambio1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenEnsamble_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenEnsambleDetalle_OrdenEnsamble" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenEnsambleDetalle_ProductoEnsambleDetalle" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenEnsambleDetalle_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_OrdenEnsambleDetalle_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_SesionCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_TipoDocumentoFiscal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_TipoFormaPago" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCliente_TipoMovimientoCuentaPorCobrar" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCobranza_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCobranza_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCobranza_TipoFormaPago" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCobranza_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCobranza_TipoMovimientoCuentaPorCobrar" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCuentaxPagar_ProcesoPagoCxPPaquete" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCuentaxPagar_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PagoCuentaxPagar_TipoFormaPagoCxP" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ParametroSucursal_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoCliente_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoCliente_TipoCambio1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoCliente_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoCliente_TipoPedido" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoClienteImportes_PedidoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoClienteProducto_PedidoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoClienteImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoClienteProducto_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoClienteProductoImportes_PedidoClienteProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoClienteProductoImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInterno_Comprador" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInterno_TipoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInterno_TipoPedidoInterno" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInterno_Vendedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInternoImportes_PedidoInterno" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInternoProducto_PedidoInterno" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInternoImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInternoProducto_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInternoProductoImportes_PedidoInternoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PedidoInternoProductoImportes_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Perfil_TipoFuncionPrograma" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PerfilFuncionPrograma_Perfil" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Usuario_Perfil" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PerfilFuncionPrograma_ProgramaFuncion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PerfilImpresionGrupo_PerfilImpresion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPrecioHistorico_PrecioAvisoCambio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProcesoPantalla_Proceso" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProcesoTipoDocumentoDigitalizacion_Proceso" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_CrediproveedorPaqueteDetalle_CrediProveedorPaquete" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProcesoPagoCxPDetalle_ProveedorAcreedorBanco" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProcesoPantalla_Programa" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProcesoTipoDocumentoDigitalizacion_TipoDocumentoDigitalizacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Producto_ProductoSegmento3" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Producto_TipoMoneda_Destino" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Producto_TipoMoneda_Origen" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Producto_TipoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoCambioUnidadDestino_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoCambioUnidadOrigen_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoDescuento_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoEnsamble_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoEnsambleDetalle_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoFactor_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoNegadoCatalogo_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPrecio_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ReciboProductoDetalle_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SinonimoProducto_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SucursalProducto_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ValeInterAlmacenProducto_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoCambioUnidadDestino_ProductoCambioUnidadOrigen" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoCambioUnidadOrigen_UnidadMedida" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoDescuento_TipoDescuentoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoEnsambleDetalle_ProductoEnsamble" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoIdentificadorCorte_SeccionProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoIdentificadorCorte_TipoMovimientoInventario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ValeInterAlmacenProducto_ProductoIdentificadorCorte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoIndice_ProductoIndice" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoNegadoCatalogo_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPrecioHistorico_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPromocion_ProductoPromocionCodigo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPromocion_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPromocionCliente_ProductoPromocion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPromocionDetalle_ProductoPromocion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPromocionSegmento_ProductoPromocion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TipoPromocionProducto_ProductoPromocion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPromocionCodigo_ProductoPromocionCodigoAplicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoPromocionDetalle_SucursalProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoSegmento2_ProductoSegmento1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProductoSegmento3_ProductoSegmento2" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProgramaConfiguracion_Programa" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProgramaFuncion_Programa" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SesionBitacora_Programa" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProgramaFuncion_TipoFuncionPrograma" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PromesaCompra_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Proveedor_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Proveedor_TipoProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedor_TipoProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedorBanco_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedorContacto_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedorDireccion_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedorDocumento_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveeedorAcreedorDescuentos_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudAnticipoProveedorAcreedor_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudEgreso_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SucursalProductoExhibicion_ProveedorAcreedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedorBanco_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedorContacto_TipoContacto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ProveedorAcreedorDireccion_TipoDireccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_PuntosCredito_SolicitudCreditoRequisito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ReciboProducto_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ReciboProducto_TipoDocumento" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ReciboProductoDetalle_ReciboProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ReferenciaBancariaTipoDocumento_TipoDocumento" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ReferenciaBancariaTipoDocumento_TipoMoneda" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_RepartoCodigosPostalesZona_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_RevisionClienteDetalle_RevisionCliente1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_RutaRepartoSucursal_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_RutaRepartoSucursal_TipoRutaReparto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ZonaColoniaReparto_RutaRepartoSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProducto_Seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SucursalAlmacenSeccion_Seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProducto_SucursalAlmacenSeccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProductoBitacora_SeccionProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProductoCosto_SeccionProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProductoUbicacion_SeccionProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProductoBitacora_SucursalAlmacenSeccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProductoBitacora_SucursalAlmacenSeccion1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SeccionProductoUbicacion_TipoUbicacion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SesionBitacora_UsuarioSesion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SesionBitacoraActividad_SesionBitacora" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SesionCaja_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SesionCaja_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SesionCajaCierre_SesionCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SesionFacturaEntrega_SesionCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SesionFacturaEntregaDetalle_SesionFacturaEntrega" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SinonimoArticulo_Sinonimo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SinonimoProducto_Sinonimo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudChequeEstatus_SolicitudChequeSeguimientoEstatus" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudChequeRequisito_TipoDocumentoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudChequeRequisitoSeguimiento_SolicitudChequeRequisito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudCreditoEstatus_SolicitudCreditoSeguimientoEstatus" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudCreditoRequisito_TipoDocumentoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudCreditoRequisitoSeguimiento_SolicitudCreditoRequisito" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudEgresoDocumento_SolicitudEgreso" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudServicio_TipoServicio" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudServicio_UsuarioSesion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SolicitudServicio_UsuarioSesion1" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SucursalAlmacenSeccion_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SucursalProducto_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_UsuarioSesion_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SucursalAlmacenSeccionMapa_SucursalAlmacenSeccion" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_SucursalProductoExhibicion_SucursalProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TimbradoDocumento_TimbradoProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TimbradoProveedorFolios_TimbradoProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TipoCambio_TipoMoneda_Destino" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TipoCambio_TipoMoneda_Origen" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TipoDescuentoImporte_TipoDescuento" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_TipoDescuentoImporte_TipoImporte" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Usuario_TipoFuncionUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_Vehiculo_TipoVehiculo" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_UnidadMedida_UnidadMedidaSAT" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_UsuarioSesion_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.FK_ValeInterAlmacenProducto_ValeInterAlmacen" ManuallyRouted="false" />
+        <AssociationConnector Association="DSNet3_DesarrolloModel.ValeInterAlmacenCFDI" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
